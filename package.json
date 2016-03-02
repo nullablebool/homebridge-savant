@@ -1,0 +1,21 @@
+{
+  "name": "homebridge-platform-savant",
+  "version": "1.0.0",
+  "description": "Savant platform plugin for homebridge: https://github.com/nfarina/homebridge",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wallwitz/homebridge-savant.git"
+  },
+  "keywords": [
+    "savant",
+    "homebridge"
+  ],
+  "author": "Horst von Wallwitz <horstsilva@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wallwitz/homebridge-savant/issues"
+  },
+  "homepage": "https://github.com/wallwitz/homebridge-savant#readme"
+}
